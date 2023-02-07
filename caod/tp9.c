@@ -18,4 +18,5 @@ int main(){
 
     }
     printf("----%f",sum);
+    printf("Chooo");
 }
